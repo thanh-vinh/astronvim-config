@@ -24,6 +24,8 @@ return {
   --
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   --
+  { import = "astrocommunity.note-taking.obsidian-nvim" },
+  --
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.dart" },
   { import = "astrocommunity.pack.docker" },
@@ -35,6 +37,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.proto" },
+  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.tailwindcss" },
